@@ -24,10 +24,10 @@ main{
 }
 .pokemon__image{
     position: absolute;
-    bottom: 55%;
-    left: 50%;
+    bottom: 53%;
+    left: 51%;
     transform: translate(-65%, 20%);
-    height: 5%;
+    height: 20%;
 }
 .pokemon__data{
     font-size: clamp(10px, 5vw, 25px);
